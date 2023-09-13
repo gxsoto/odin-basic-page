@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #1F2937;
+    font-size: 24px;
+    color: #F9FAF8 
+}
+
+.logo {
+
+}
+
+.links a{
+    text-decoration: none;
+}
